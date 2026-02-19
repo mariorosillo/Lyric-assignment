@@ -3,6 +3,10 @@
 #Title{
     color:rgb(213, 192, 158)
 }
+#pic{
+  box-shadow: 10px 10px 5px 12px rgba(0, 0, 0, 0.5);
+}
+
 #Mike{
     color:rgb(241, 33, 103)
 }
@@ -33,5 +37,8 @@ p{
     /* padding: 4cap; */
     /* border: 0cap; */
     /* margin: auto; */
-    color:rgb(0, 0, 0)
+    color:#0817e7
+}
+body {
+  background-image: url("https://4kwallpapers.com/images/wallpapers/cityscape-night-buildings-city-lights-night-city-dark-sky-1080x2160-8289.jpg");
 }
