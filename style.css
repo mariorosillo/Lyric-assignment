@@ -1,0 +1,37 @@
+
+/* # is id */
+#Title{
+    color:rgb(213, 192, 158)
+}
+#Mike{
+    color:rgb(241, 33, 103)
+}
+.verse{
+    color:rgb(127, 71, 249)
+}
+.Chorus{
+    color:rgb(213, 192, 158)
+}
+
+.idk{
+  font-family: "Gravitas One", serif;
+  font-weight: 400;
+  font-style: normal;
+  color:rgb(241, 33, 103)
+}
+
+
+
+p{
+    color:rgb(178, 11, 233)
+    
+}
+
+.Song-info{
+    /* wierd invisble cube */
+    /* content: 4cap; */
+    /* padding: 4cap; */
+    /* border: 0cap; */
+    /* margin: auto; */
+    color:rgb(0, 0, 0)
+}
