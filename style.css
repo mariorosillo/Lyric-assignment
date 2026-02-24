@@ -39,6 +39,9 @@ p{
     /* margin: auto; */
     color:#0817e7
 }
-body {
-  background-image: url("https://4kwallpapers.com/images/wallpapers/cityscape-night-buildings-city-lights-night-city-dark-sky-1080x2160-8289.jpg");
+
+.lyrics-background{
+    background-image: url('https://static.wikia.nocookie.net/familyguy/images/1/1f/Quagmire.PNG/revision/latest?cb=20221004124745');
+    height: 300px; /* Set a specific height */
+    width: 100%;  /* Set a specific width */
 }
