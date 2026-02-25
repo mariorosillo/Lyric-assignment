@@ -29,9 +29,13 @@
   font-style: normal;
   color:rgb(241, 33, 103)
 }
+    .background-1{
+    background-color: transparent;
+    background-image: url('https://st.hzcdn.com/fimgs/9d9110a709bb2e03_9241-w240-h240-b0-p0--.jpg');
+    height: 224px;  
+    width:  104%;    
 
-
-
+    }
 p{
     color:rgb(178, 11, 233)
     
@@ -43,7 +47,7 @@ p{
     /* padding: 4cap; */
     /* border: 0cap; */
     /* margin: auto; */
-    color:#0817e7
+    color:#070813
 }
 
 body {
