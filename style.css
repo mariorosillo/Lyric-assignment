@@ -4,9 +4,15 @@
     color:rgb(213, 192, 158)
 }
 #pic{
-  box-shadow: 10px 10px 5px 12px rgba(0, 0, 0, 0.5);
+    /*box-shadow: 10px 10px 5px 12px rgba(0, 0, 0, 0.5);*/
+   content: 8cap; 
+    padding: 8cap; 
+     border: 8cap; 
+     margin: auto; 
 }
-
+.container {
+  text-align: center;
+}
 #Mike{
     color:rgb(241, 33, 103)
 }
@@ -41,7 +47,7 @@ p{
 }
 
 .lyrics-background{
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEXDseEeQFjUAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=');
+    background-image: url('data:imae/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEXDseEeQFjUAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=');
     height: 300px; /* Set a specific height */
     width: 100%;  /* Set a specific width */
 }
