@@ -17,7 +17,7 @@
     color:rgb(241, 33, 103)
 }
 .verse{
-    color:rgb(127, 71, 249)
+  color:rgb(127, 71, 249)
 }
 .Chorus{
     color:rgb(213, 192, 158)
@@ -36,8 +36,9 @@
     width:  104%;    
 
     }
-p{
-    color:rgb(178, 11, 233)
+h4{
+    text-shadow: 3px 3px 6px rgb(0, 0, 0);
+    color:rgb(25, 171, 207)
     
 }
 
@@ -60,3 +61,4 @@ body {
     height: 300px; /* Set a specific height */
     width: 100%;  /* Set a specific width */
 }
+
