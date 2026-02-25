@@ -46,7 +46,12 @@ p{
     color:#0817e7
 }
 
-.lyrics-background{
+body {
+  background: url("https://media.mutualart.com/Images//2023_10/06/04/045351417/ba8d0803-bd19-4943-b5aa-390f9dbad9a6.Jpeg") center center no-repeat fixed;
+  background-size: cover;
+}
+
+/*.lyrics-background{
     background-image: url('data:imae/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEXDseEeQFjUAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=');
     height: 300px; /* Set a specific height */
     width: 100%;  /* Set a specific width */
